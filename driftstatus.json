@@ -1,0 +1,254 @@
+{
+    "generated_at": "2026-10-10T22:30:05Z",
+    "summary": {
+        "total": 49,
+        "down": 0
+    },
+    "dorms": [
+        {
+            "name": "4. Maj Kollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Bikuben Kollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Bjørnevangen",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Blangstedgårdkollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Bramstrupvej kollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Bredstedgadekollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Byens Ø",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Carl Nielsen Kollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Christmas Møller Kollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Cortex Park",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Cortex-Kollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Falen 33",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Glanshatten",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Guldsmedevænget",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "H.C. Ørstedkollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Hans Tausen",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "J.B. Winsløw",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Kaj Munk Kollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Klokkens Kvarter",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Klostergården",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Langelinie",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Lindekollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Munke Mose Park",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Nordatlantisk Hus",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Nørregade",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Odense Offentlige Slagtehuse",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Odeon",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Pjentedamskollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Rasmus Rask Kollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Ravnholtvænget",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Ridderhatten / Tornbjergvej",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Ridehusgade",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Rytterkasernen",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Sct. Joseph Kollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Sdr. Boulevard 190",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Slotsgadekollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Solsikkemarken",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Sprogø",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Stenfiskerkajen",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Store Glasvej 44",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Sukkerkogeriet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Sønderparken",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Thomas B. Thriges Kollegium",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Thorsgården",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Tornbjergkollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Vindegade 100",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Zachariasvej / Demantsvej",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Åløkkekollegiet",
+            "status": "up",
+            "devices_down": 0
+        },
+        {
+            "name": "Østergade",
+            "status": "up",
+            "devices_down": 0
+        }
+    ]
+}
